@@ -65,7 +65,8 @@ The interactive dashboard helps stakeholders identify patterns in **revenue gene
 ## 📂 Repository Contents
 - `Shopify_Dashboard.pbix` → Power BI dashboard file  
 - `data.csv` → Sample dataset  
-- `dashboard_preview.png` → Screenshot of dashboard  
+- `Dill Through shopify_dashboard.png` → Screenshot of dashboard
+- `KPI_Shopify_Dashboard.png` → Screenshot of dashboard  
 - `README.md` → Project documentation  
 
 ---
